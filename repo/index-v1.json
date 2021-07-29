@@ -1,0 +1,809 @@
+{
+  "repo": {
+    "timestamp": 1627578566000,
+    "version": 20001,
+    "name": "obfusk's f-droid repo",
+    "icon": "fdroid-icon.png",
+    "address": "https://obfusk.dev/fdroid/repo",
+    "description": "Repository of apps for F-Droid. Contains official binaries built by\nthe original developers: Jiten Japanese Dictionary, Sokoban(g) by\nobfusk.ch; Signal by signal.org."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [
+        "NonFreeAssets"
+      ],
+      "authorEmail": "flx@obfusk.net",
+      "authorName": "obfusk",
+      "authorWebSite": "https://obfusk.ch",
+      "categories": [
+        "Science & Education"
+      ],
+      "changelog": "https://github.com/obfusk/jiten/blob/HEAD/changelog.txt",
+      "suggestedVersionName": "1.1.0",
+      "suggestedVersionCode": "1010100002",
+      "donate": "https://ko-fi.com/obfusk",
+      "issueTracker": "https://github.com/obfusk/jiten/issues",
+      "license": "AGPL-3.0-or-later",
+      "name": "Jiten Japanese Dictionary",
+      "sourceCode": "https://github.com/obfusk/jiten",
+      "webSite": "https://jiten.obfusk.dev",
+      "added": 1623598065000,
+      "icon": "dev.obfusk.jiten.1010100002.png",
+      "packageName": "dev.obfusk.jiten",
+      "lastUpdated": 1625742577000,
+      "localized": {
+        "en-US": {
+          "description": "Jiten is a Japanese dictionary based on JMDict/Kanjidic\n\nThis is the offline android version of https://jiten.obfusk.dev.\n\nThe large download size is because it includes all the dictionary data, including audio.\n\nNB: the app will take a while to load the first time it is started (or after an update), but it will load a lot faster afterwards.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
+          "featureGraphic": "featureGraphic_DNLcna9L7ZgXkkSzckAYHK96hr5faKy0PAxjubC3lGw=.png",
+          "icon": "icon_aVLHTgZchZUfJsE3QY9tVQRBztygHOTfx1Wr94Z5NQQ=.png",
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+          ],
+          "summary": "Japanese dictionary based on jmdict/kanjidic (offline version)",
+          "whatsNew": "\u2022 new: handwritten kanji recognition (kanjidraw)\n\u2022 new: larger japanese text setting\n\u2022 new: browse kanji by SKIP code\n\u2022 updated databases\n\u2022 improved dark mode\n"
+        }
+      }
+    },
+    {
+      "authorName": "obfusk",
+      "categories": [
+        "Science & Education"
+      ],
+      "suggestedVersionName": "1.0.1",
+      "suggestedVersionCode": "202102180",
+      "donate": "https://ko-fi.com/obfusk",
+      "issueTracker": "https://github.com/obfusk/jiten-webview/issues",
+      "license": "GPL-3.0-or-later",
+      "name": "Jiten Japanese Dictionary [Online]",
+      "sourceCode": "https://github.com/obfusk/jiten-webview",
+      "webSite": "https://github.com/obfusk/jiten-webview",
+      "added": 1623598069000,
+      "icon": "dev.obfusk.jiten_webview.202102180.png",
+      "packageName": "dev.obfusk.jiten_webview",
+      "lastUpdated": 1623598069000,
+      "localized": {
+        "en-US": {
+          "description": "Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic\n\nThis app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser \u2014 but with some small advantages (like long press for tooltips).\n\nThere is also a completely offline version \u2014 named simply \"Jiten Japanese Dictionary\" \u2014 which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 browse by frequency/level/jlpt\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
+          "featureGraphic": "featureGraphic_DNLcna9L7ZgXkkSzckAYHK96hr5faKy0PAxjubC3lGw=.png",
+          "icon": "icon_ir81wZXXRsOMdHYRTO3xmq9i-JmQEC5VpEiJXt6In4o=.png",
+          "phoneScreenshots": [
+            "v1.0.1-1.png",
+            "v1.0.1-2.png",
+            "v1.0.1-3.png",
+            "v1.0.1-4.png"
+          ],
+          "summary": "Japanese dictionary based on jmdict/kanjidic (online version)"
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "NonFreeDep"
+      ],
+      "authorEmail": "support@signal.org",
+      "authorName": "Signal Foundation",
+      "authorWebSite": "https://signal.org",
+      "categories": [
+        "Internet",
+        "Phone & SMS"
+      ],
+      "suggestedVersionName": "5.17.3",
+      "suggestedVersionCode": "88100",
+      "donate": "https://signal.org/donate/",
+      "issueTracker": "https://github.com/signalapp/Signal-Android/issues",
+      "license": "GPL-3.0",
+      "name": "Signal Private Messenger",
+      "sourceCode": "https://github.com/signalapp/Signal-Android",
+      "webSite": "https://signal.org",
+      "added": 1627137569000,
+      "icon": "org.thoughtcrime.securesms.88100.png",
+      "packageName": "org.thoughtcrime.securesms",
+      "lastUpdated": 1627137569000,
+      "localized": {
+        "en-US": {
+          "description": "Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal\u2019s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.\n\n\u2022 Say anything \u2013 State-of-the-art end-to-end encryption (powered by the open source Signal Protocol\u2122) keeps your conversations secure. Privacy isn\u2019t an optional mode \u2014 it\u2019s just the way that Signal works. Every message, every call, every time.\n\n\u2022 Go fast \u2013 Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible.\n\n\u2022 Feel free \u2013 Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.\n\n\u2022 Be yourself \u2013 You can use your existing phone number and address book to securely communicate with your friends.\n\n\u2022 Speak up \u2013 Whether they live across town or across the ocean, Signal\u2019s enhanced audio and video quality will make your friends and family feel closer.\n\n\u2022 Whisper in the shadows \u2013 Switch to the dark theme if you refuse to see the light.\n\n\u2022 Sound familiar \u2013 Choose custom alerts for each contact, or disable noises completely. Simon & Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing \u201cNone\u201d as your notification ringtone.\n\n\u2022 Picture this \u2013 Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There\u2019s even a text tool so that you can add more words to the 1,000 that your picture is already worth.\n\n\nFor support, questions, or more information, please visit:\nhttps://support.signal.org\n\nSource code:\nhttps://github.com/signalapp\n\nFollow us on Twitter (@signalapp) and Instagram (@signal_app) for all of the latest updates and announcements.\n",
+          "icon": "icon_T59iY2PFQuVnZ28Kxsl834_FFEPTY-S6cFj1qQZ-xsk=.png",
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+          ],
+          "summary": "Say \u201chello\u201d to privacy."
+        }
+      }
+    },
+    {
+      "authorEmail": "flx@obfusk.net",
+      "authorName": "obfusk",
+      "authorWebSite": "https://obfusk.ch",
+      "categories": [
+        "Games"
+      ],
+      "changelog": "https://github.com/obfusk/sokobang/releases",
+      "suggestedVersionName": "0.2.5",
+      "suggestedVersionCode": "1000205002",
+      "donate": "https://ko-fi.com/obfusk",
+      "issueTracker": "https://github.com/obfusk/sokobang/issues",
+      "license": "AGPL-3.0-or-later",
+      "name": "Sokoban(g)",
+      "sourceCode": "https://github.com/obfusk/sokobang",
+      "webSite": "https://sokobang.obfusk.dev",
+      "added": 1623598071000,
+      "icon": "dev.obfusk.sokobang.1000205002.png",
+      "packageName": "dev.obfusk.sokobang",
+      "lastUpdated": 1626123860000,
+      "localized": {
+        "en-US": {
+          "description": "Sokoban(g) is a sokoban (Japanese \"warehouse keeper\") puzzle game.\n\nThe objective of the game is to push all the red gems to the green goal squares (using as few moves and pushes as possible).\n\nUse the arrow buttons to move; press 'u' to undo the last move.\n",
+          "featureGraphic": "featureGraphic_j9uF2cukAjY7u8tl1XpRB6P8Sq00KtdGdHEmxxWhg48=.png",
+          "icon": "icon_eLXOEIakSLjzTXRy1hFx3EwC1B7bKxr4MuxejVyGynw=.png",
+          "phoneScreenshots": [
+            "1.png",
+            "2.png"
+          ],
+          "summary": "Sokoban puzzle game"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "dev.obfusk.jiten": [
+      {
+        "added": 1625742576000,
+        "apkName": "jiten-1.1.0-arm64-v8a.apk",
+        "hash": "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 94373171,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010100002,
+        "versionName": "1.1.0"
+      },
+      {
+        "added": 1625742577000,
+        "apkName": "jiten-1.1.0-armeabi-v7a.apk",
+        "hash": "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 94373195,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010100001,
+        "versionName": "1.1.0"
+      },
+      {
+        "added": 1623598068000,
+        "apkName": "jiten-1.0.0-arm64-v8a.apk",
+        "hash": "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 92108095,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010000002,
+        "versionName": "1.0.0"
+      },
+      {
+        "added": 1623598069000,
+        "apkName": "jiten-1.0.0-armeabi-v7a.apk",
+        "hash": "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 92108109,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010000001,
+        "versionName": "1.0.0"
+      },
+      {
+        "added": 1623598066000,
+        "apkName": "jiten-0.4.0-arm64-v8a.apk",
+        "hash": "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 87942323,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000400002,
+        "versionName": "0.4.0"
+      },
+      {
+        "added": 1623598067000,
+        "apkName": "jiten-0.4.0-armeabi-v7a.apk",
+        "hash": "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 87942337,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000400001,
+        "versionName": "0.4.0"
+      },
+      {
+        "added": 1623598065000,
+        "apkName": "jiten-0.3.5-arm64-v8a.apk",
+        "hash": "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 85804184,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000305002,
+        "versionName": "0.3.5"
+      },
+      {
+        "added": 1623598066000,
+        "apkName": "jiten-0.3.5-armeabi-v7a.apk",
+        "hash": "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 85456038,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000305001,
+        "versionName": "0.3.5"
+      }
+    ],
+    "dev.obfusk.jiten_webview": [
+      {
+        "added": 1623598069000,
+        "apkName": "jiten-webview-1.0.1.apk",
+        "hash": "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "dev.obfusk.jiten_webview",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 2807041,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 202102180,
+        "versionName": "1.0.1"
+      }
+    ],
+    "dev.obfusk.sokobang": [
+      {
+        "added": 1626123859000,
+        "apkName": "sokobang-0.2.5-arm64-v8a.apk",
+        "hash": "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8709356,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000205002,
+        "versionName": "0.2.5"
+      },
+      {
+        "added": 1626123860000,
+        "apkName": "sokobang-0.2.5-armeabi-v7a.apk",
+        "hash": "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8709367,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000205001,
+        "versionName": "0.2.5"
+      },
+      {
+        "added": 1623598071000,
+        "apkName": "sokobang-0.2.3-arm64-v8a.apk",
+        "hash": "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8643813,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000203002,
+        "versionName": "0.2.3"
+      },
+      {
+        "added": 1623598072000,
+        "apkName": "sokobang-0.2.3-armeabi-v7a.apk",
+        "hash": "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8652016,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000203001,
+        "versionName": "0.2.3"
+      },
+      {
+        "added": 1623598071000,
+        "apkName": "sokobang-0.2.2-arm64-v8a.apk",
+        "hash": "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8905810,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000202002,
+        "versionName": "0.2.2"
+      },
+      {
+        "added": 1623598071000,
+        "apkName": "sokobang-0.2.2-armeabi-v7a.apk",
+        "hash": "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.sokobang",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 8647774,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1000202001,
+        "versionName": "0.2.2"
+      }
+    ],
+    "org.thoughtcrime.securesms": [
+      {
+        "added": 1627137569000,
+        "apkName": "Signal-Android-website-prod-universal-release-5.17.3.apk",
+        "hash": "4cfca82a6972ecae5e9e7fc4f791ef1f56e7b465c5eaccfae76dcc92bd9ce809",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.thoughtcrime.securesms",
+        "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
+        "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
+        "size": 66072759,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "org.thoughtcrime.securesms.ACCESS_SECRETS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_PROFILE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_WAP_PUSH",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_MMS",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SMS",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_STICKY",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.DISABLE_KEYGUARD",
+            null
+          ],
+          [
+            "android.permission.RAISED_THREAD_PRIORITY",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ]
+        ],
+        "versionCode": 88100,
+        "versionName": "5.17.3"
+      }
+    ]
+  }
+}

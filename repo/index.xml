@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="fdroid-icon.png" name="obfusk's f-droid repo" pubkey="308204f3308202dba003020102020432b866c8300d06092a864886f70d01010b0500302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e301e170d3230313131313030353731355a170d3438303332393030353731355a302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e30820222300d06092a864886f70d01010105000382020f003082020a028202010080ea207f282a8dfa73ec6fc11549ea6c66c69936007f439770fd5aa458dbc45bc2fc5ab6ca6dfaac148ef19141dfbeb8510dc392757ae73d6d94261f0f07cd395eb5e7ac66d7376e7c61b3c800ddc3f6000a4f781a32f40b0f52a305f8eaff51ae588cf62649b6a6705e15ae3c981c519621a999d5fa3878c2737f04edf5d2a86098630e55ca35ef946673d9ed643885f196a331b1c16315500c04d1e9ecb1917f9b6b438d5712ce724017b0696918ee47d90e7ceb8e27b866fe237714080173c498182d5f618f888d1b55dcbaec4be183b16514e6ec3c7bfc1dc3e5eae6d8004022d5c8d421d0e5da09c9e506f5ae6f30195945e43e45c5ab1042143c5372db0c7df57a3a224dea0ab979046944de2d712901ad504196d6fce1cc563b622701c08d99f7a9f18a3994e038ee90fa508802728e1d383ba749416721996d414a0de9be5e772e63d0cc82a605566427f0865014af29db54d4ae8eacacf0b48b18c10fd916e12232c67fca1043f88ac3d8f7afacfa6efbc641212527eb03c9983a180787f38ed941e3d7e724f6a2d100c9f0524a8884304769555ef0e57d4b2c09e2b3d9b7e57f839deb936af8280d61bacfe26d5c7b71b0151a8369ef240e79546598385ec937f7fdfe41bc070c72b0193e7bd16a955d267ba3e6aa61df44e8b59578a0a2722dccf5d1598adb2f7fbf56ff03df4eeda60428f80127cfce7e096ca70203010001a321301f301d0603551d0e041604144738707d76ae05b16c6ccf8dfdc0a679ca636e85300d06092a864886f70d01010b050003820201002030b60a43fe14f8c12fbdc7b9e6b8cfd81797feb9641b9814176a2958b696af4ede7e4e221d9db371cd6c030c24987d1a97403ec9eab0314e86110f05bca85521214c19f4fbfc35f0204f2cb4b13860d77f5a58c25c8869474c0247b49258e63e0eb4389a436fe9cc5e805ea6c2effab59aef45a777a9bcea35f105ab5a9155c9e63b27c84fdf0a5d00100f997e99248bddc5aac2fbc2da61d1c0aafd610312eb70fdf54f89c8cda4ff9330dae850bbf518207aec8753d7d4d1ea13ac8e6ec1cb943710a9df01d5fdd4f9af30d310d000dd612a8e49d80902a3db0605d22e27654ec0669aabee6996fbad8dd817939b5d69ce0dc95cb06faad211d3eee039625d6266ec7ac4f188c604c39e9e83ba08e5f1e9baab694f7f197cc6e19219831bc9eed00c635f5be36a4fcc5563eda251cbcc2f541950e4ab34a2104c3891891b24698302d57d7cd9c4c88964dc4953df2a5fa7fe7f0386c11202479adb5455620a8a3799e75e488747c36d708c50b67f84ed1ab9f18d54c0b201381daf679f3bf75c93866d90c7cede58e058174b39c14752246db0f40f2b8f182e28d8a046e0e726af42752c5c94eee587236a8b8ffe41fc24d8237e5bc8ffa3f24958094234eb9b0f150af2c7bb16af46d523794a19e562ab0509224313ae6db9637f9757b96757369c5f00cb3f08f4c6864bd8b976bf4c4569182f6538472165a7a8ad2a37" timestamp="1627578566" url="https://obfusk.dev/fdroid/repo" version="20001">
+		<description>Repository of apps for F-Droid. Contains official binaries built by
+the original developers: Jiten Japanese Dictionary, Sokoban(g) by
+obfusk.ch; Signal by signal.org.</description>
+	</repo>
+	<application id="dev.obfusk.jiten">
+		<id>dev.obfusk.jiten</id>
+		<added>2021-06-13</added>
+		<lastupdated>2021-07-08</lastupdated>
+		<name>Jiten Japanese Dictionary</name>
+		<summary>Japanese dictionary based on jmdict/kanjidic (offline version)</summary>
+		<icon>dev.obfusk.jiten.1010100002.png</icon>
+		<desc>Jiten is a Japanese dictionary based on JMDict/Kanjidic
+
+This is the offline android version of https://jiten.obfusk.dev.
+
+The large download size is because it includes all the dictionary data, including audio.
+
+NB: the app will take a while to load the first time it is started (or after an update), but it will load a lot faster afterwards.
+
+Features:
+
+JMDict multilingual japanese dictionary
+• kanji, readings (romaji optional), meanings &amp; more
+• meanings in english, dutch, german, french and/or spanish
+• pitch accent (from Wadoku)
+• browse by frequency/jlpt
+
+Kanji dictionary
+• readings (romaji optional), meanings (english), jmdict entries, radicals &amp; more
+• search using SKIP codes
+• search by radical
+• handwritten kanji recognition
+• browse by frequency/level/jlpt/SKIP
+
+Example sentences (from Tatoeba)
+• with english, dutch, german, french and/or spanish translation
+• some with audio
+
+Stroke order
+• input a word or sentence and see how it's written
+
+Fine-grained search using regexes (regular expressions)
+• simple searches don't require knowledge of regexes
+• quick reference available
+
+• Dark mode
+• Search history (stored locally)
+• Use long press for tooltips: quickly see meanings and readings for kanji and words
+• Easily share and open jiten.obfusk.dev links
+• Convert romaji to hiragana and between hiragana and katakana
+
+
+No ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme
+
+
+To report bugs and request features, please use the issue tracker at
+https://github.com/obfusk/jiten/issues
+
+Questions and feedback are welcome at
+https://github.com/obfusk/jiten/discussions or jiten@obfusk.dev
+</desc>
+		<license>AGPL-3.0-or-later</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://jiten.obfusk.dev</web>
+		<source>https://github.com/obfusk/jiten</source>
+		<tracker>https://github.com/obfusk/jiten/issues</tracker>
+		<changelog>https://github.com/obfusk/jiten/blob/HEAD/changelog.txt</changelog>
+		<author>obfusk</author>
+		<email>flx@obfusk.net</email>
+		<donate>https://ko-fi.com/obfusk</donate>
+		<marketversion>1.1.0</marketversion>
+		<marketvercode>1010100002</marketvercode>
+		<antifeatures>NonFreeAssets</antifeatures>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>1010100002</versioncode>
+			<apkname>jiten-1.1.0-arm64-v8a.apk</apkname>
+			<hash type="sha256">cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d</hash>
+			<size>94373171</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-07-08</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>1010100001</versioncode>
+			<apkname>jiten-1.1.0-armeabi-v7a.apk</apkname>
+			<hash type="sha256">2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02</hash>
+			<size>94373195</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-07-08</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>1010000002</versioncode>
+			<apkname>jiten-1.0.0-arm64-v8a.apk</apkname>
+			<hash type="sha256">d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85</hash>
+			<size>92108095</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>1010000001</versioncode>
+			<apkname>jiten-1.0.0-armeabi-v7a.apk</apkname>
+			<hash type="sha256">572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4</hash>
+			<size>92108109</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>1000400002</versioncode>
+			<apkname>jiten-0.4.0-arm64-v8a.apk</apkname>
+			<hash type="sha256">0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371</hash>
+			<size>87942323</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>1000400001</versioncode>
+			<apkname>jiten-0.4.0-armeabi-v7a.apk</apkname>
+			<hash type="sha256">5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2</hash>
+			<size>87942337</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.3.5</version>
+			<versioncode>1000305002</versioncode>
+			<apkname>jiten-0.3.5-arm64-v8a.apk</apkname>
+			<hash type="sha256">75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4</hash>
+			<size>85804184</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.3.5</version>
+			<versioncode>1000305001</versioncode>
+			<apkname>jiten-0.3.5-armeabi-v7a.apk</apkname>
+			<hash type="sha256">2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2</hash>
+			<size>85456038</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="dev.obfusk.jiten_webview">
+		<id>dev.obfusk.jiten_webview</id>
+		<added>2021-06-13</added>
+		<lastupdated>2021-06-13</lastupdated>
+		<name>Jiten Japanese Dictionary [Online]</name>
+		<summary>Japanese dictionary based on jmdict/kanjidic (online version)</summary>
+		<icon>dev.obfusk.jiten_webview.202102180.png</icon>
+		<desc>Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic
+
+This app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser — but with some small advantages (like long press for tooltips).
+
+There is also a completely offline version — named simply &quot;Jiten Japanese Dictionary&quot; — which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.
+
+Features:
+
+JMDict multilingual japanese dictionary
+• kanji, readings (romaji optional), meanings &amp; more
+• meanings in english, dutch, german, french and/or spanish
+• pitch accent (from Wadoku)
+• browse by frequency/jlpt
+
+Kanji dictionary
+• readings (romaji optional), meanings (english), jmdict entries, radicals &amp; more
+• search using SKIP codes
+• search by radical
+• browse by frequency/level/jlpt
+
+Example sentences (from Tatoeba)
+• with english, dutch, german, french and/or spanish translation
+• some with audio
+
+Stroke order
+• input a word or sentence and see how it's written
+
+Fine-grained search using regexes (regular expressions)
+• simple searches don't require knowledge of regexes
+• quick reference available
+
+• Dark mode
+• Search history (stored locally)
+• Use long press for tooltips: quickly see meanings and readings for kanji and words
+• Easily share and open jiten.obfusk.dev links
+• Convert romaji to hiragana and between hiragana and katakana
+
+
+No ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme
+
+
+To report bugs and request features, please use the issue tracker at
+https://github.com/obfusk/jiten/issues
+
+Questions and feedback are welcome at
+https://github.com/obfusk/jiten/discussions or jiten@obfusk.dev
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://github.com/obfusk/jiten-webview</web>
+		<source>https://github.com/obfusk/jiten-webview</source>
+		<tracker>https://github.com/obfusk/jiten-webview/issues</tracker>
+		<author>obfusk</author>
+		<donate>https://ko-fi.com/obfusk</donate>
+		<marketversion>1.0.1</marketversion>
+		<marketvercode>202102180</marketvercode>
+		<package>
+			<version>1.0.1</version>
+			<versioncode>202102180</versioncode>
+			<apkname>jiten-webview-1.0.1.apk</apkname>
+			<hash type="sha256">bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32</hash>
+			<size>2807041</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+		</package>
+	</application>
+	<application id="org.thoughtcrime.securesms">
+		<id>org.thoughtcrime.securesms</id>
+		<added>2021-07-24</added>
+		<lastupdated>2021-07-24</lastupdated>
+		<name>Signal Private Messenger</name>
+		<summary>Say “hello” to privacy.</summary>
+		<icon>org.thoughtcrime.securesms.88100.png</icon>
+		<desc>Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
+
+• Say anything – State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
+
+• Go fast – Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible.
+
+• Feel free – Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.
+
+• Be yourself – You can use your existing phone number and address book to securely communicate with your friends.
+
+• Speak up – Whether they live across town or across the ocean, Signal’s enhanced audio and video quality will make your friends and family feel closer.
+
+• Whisper in the shadows – Switch to the dark theme if you refuse to see the light.
+
+• Sound familiar – Choose custom alerts for each contact, or disable noises completely. Simon &amp; Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing “None” as your notification ringtone.
+
+• Picture this – Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There’s even a text tool so that you can add more words to the 1,000 that your picture is already worth.
+
+
+For support, questions, or more information, please visit:
+https://support.signal.org
+
+Source code:
+https://github.com/signalapp
+
+Follow us on Twitter (@signalapp) and Instagram (@signal_app) for all of the latest updates and announcements.
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Internet,Phone &amp; SMS</categories>
+		<category>Internet</category>
+		<web>https://signal.org</web>
+		<source>https://github.com/signalapp/Signal-Android</source>
+		<tracker>https://github.com/signalapp/Signal-Android/issues</tracker>
+		<author>Signal Foundation</author>
+		<email>support@signal.org</email>
+		<donate>https://signal.org/donate/</donate>
+		<marketversion>5.17.3</marketversion>
+		<marketvercode>88100</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>5.17.3</version>
+			<versioncode>88100</versioncode>
+			<apkname>Signal-Android-website-prod-universal-release-5.17.3.apk</apkname>
+			<hash type="sha256">4cfca82a6972ecae5e9e7fc4f791ef1f56e7b465c5eaccfae76dcc92bd9ce809</hash>
+			<size>66072759</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-07-24</added>
+			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="dev.obfusk.sokobang">
+		<id>dev.obfusk.sokobang</id>
+		<added>2021-06-13</added>
+		<lastupdated>2021-07-12</lastupdated>
+		<name>Sokoban(g)</name>
+		<summary>Sokoban puzzle game</summary>
+		<icon>dev.obfusk.sokobang.1000205002.png</icon>
+		<desc>Sokoban(g) is a sokoban (Japanese &quot;warehouse keeper&quot;) puzzle game.
+
+The objective of the game is to push all the red gems to the green goal squares (using as few moves and pushes as possible).
+
+Use the arrow buttons to move; press 'u' to undo the last move.
+</desc>
+		<license>AGPL-3.0-or-later</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web>https://sokobang.obfusk.dev</web>
+		<source>https://github.com/obfusk/sokobang</source>
+		<tracker>https://github.com/obfusk/sokobang/issues</tracker>
+		<changelog>https://github.com/obfusk/sokobang/releases</changelog>
+		<author>obfusk</author>
+		<email>flx@obfusk.net</email>
+		<donate>https://ko-fi.com/obfusk</donate>
+		<marketversion>0.2.5</marketversion>
+		<marketvercode>1000205002</marketvercode>
+		<package>
+			<version>0.2.5</version>
+			<versioncode>1000205002</versioncode>
+			<apkname>sokobang-0.2.5-arm64-v8a.apk</apkname>
+			<hash type="sha256">e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb</hash>
+			<size>8709356</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-07-12</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.2.5</version>
+			<versioncode>1000205001</versioncode>
+			<apkname>sokobang-0.2.5-armeabi-v7a.apk</apkname>
+			<hash type="sha256">47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9</hash>
+			<size>8709367</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-07-12</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.2.3</version>
+			<versioncode>1000203002</versioncode>
+			<apkname>sokobang-0.2.3-arm64-v8a.apk</apkname>
+			<hash type="sha256">d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d</hash>
+			<size>8643813</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.2.3</version>
+			<versioncode>1000203001</versioncode>
+			<apkname>sokobang-0.2.3-armeabi-v7a.apk</apkname>
+			<hash type="sha256">ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20</hash>
+			<size>8652016</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.2.2</version>
+			<versioncode>1000202002</versioncode>
+			<apkname>sokobang-0.2.2-arm64-v8a.apk</apkname>
+			<hash type="sha256">ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8</hash>
+			<size>8905810</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.2.2</version>
+			<versioncode>1000202001</versioncode>
+			<apkname>sokobang-0.2.2-armeabi-v7a.apk</apkname>
+			<hash type="sha256">f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87</hash>
+			<size>8647774</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-06-13</added>
+			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>
