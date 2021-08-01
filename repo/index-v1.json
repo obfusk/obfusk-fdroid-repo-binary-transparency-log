@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1627753507000,
+    "timestamp": 1627861541000,
     "version": 20001,
     "name": "obfusk's f-droid repo",
     "icon": "fdroid-icon.png",
@@ -53,28 +53,35 @@
       }
     },
     {
+      "authorEmail": "flx@obfusk.net",
       "authorName": "obfusk",
+      "authorWebSite": "https://obfusk.ch",
       "categories": [
         "Science & Education"
       ],
-      "suggestedVersionName": "1.0.1",
-      "suggestedVersionCode": "202102180",
+      "changelog": "https://github.com/obfusk/jiten-webview/releases",
+      "suggestedVersionName": "1.0.3",
+      "suggestedVersionCode": "202108010",
       "donate": "https://ko-fi.com/obfusk",
       "issueTracker": "https://github.com/obfusk/jiten-webview/issues",
       "license": "GPL-3.0-or-later",
       "name": "Jiten Japanese Dictionary [Online]",
       "sourceCode": "https://github.com/obfusk/jiten-webview",
-      "webSite": "https://github.com/obfusk/jiten-webview",
+      "webSite": "https://jiten.obfusk.dev",
       "added": 1623598069000,
-      "icon": "dev.obfusk.jiten_webview.202102180.png",
       "packageName": "dev.obfusk.jiten_webview",
-      "lastUpdated": 1623598069000,
+      "lastUpdated": 1627861537000,
       "localized": {
         "en-US": {
-          "description": "Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic\n\nThis app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser \u2014 but with some small advantages (like long press for tooltips).\n\nThere is also a completely offline version \u2014 named simply \"Jiten Japanese Dictionary\" \u2014 which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 browse by frequency/level/jlpt\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
+          "description": "Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic\n\nThis app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser \u2014 but with some small advantages (like long press for tooltips).\n\nThere is also a completely offline version \u2014 named simply \"Jiten Japanese Dictionary\" \u2014 which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
           "featureGraphic": "featureGraphic_DNLcna9L7ZgXkkSzckAYHK96hr5faKy0PAxjubC3lGw=.png",
           "icon": "icon_ir81wZXXRsOMdHYRTO3xmq9i-JmQEC5VpEiJXt6In4o=.png",
           "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
             "v1.0.1-1.png",
             "v1.0.1-2.png",
             "v1.0.1-3.png",
@@ -344,6 +351,26 @@
       }
     ],
     "dev.obfusk.jiten_webview": [
+      {
+        "added": 1627861537000,
+        "apkName": "jiten-webview-1.0.3.apk",
+        "hash": "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "dev.obfusk.jiten_webview",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 2736571,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 202108010,
+        "versionName": "1.0.3"
+      },
       {
         "added": 1623598069000,
         "apkName": "jiten-webview-1.0.1.apk",
