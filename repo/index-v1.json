@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1632158384000,
+    "timestamp": 1633015002000,
     "version": 20001,
     "name": "obfusk's f-droid repo",
     "icon": "fdroid-icon.png",
@@ -107,17 +107,17 @@
         "Internet",
         "Phone & SMS"
       ],
-      "suggestedVersionName": "5.23.8",
-      "suggestedVersionCode": "91905",
+      "suggestedVersionName": "5.24.7",
+      "suggestedVersionCode": "92700",
       "donate": "https://signal.org/donate/",
       "issueTracker": "https://github.com/signalapp/Signal-Android/issues",
       "license": "GPL-3.0-only",
       "name": "Signal Private Messenger",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "webSite": "https://signal.org",
-      "added": 1632158379000,
+      "added": 1633014997000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1632158379000,
+      "lastUpdated": 1633014997000,
       "localized": {
         "en-US": {
           "description": "Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal\u2019s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.\n\n\u2022 Say anything \u2013 State-of-the-art end-to-end encryption (powered by the open source Signal Protocol\u2122) keeps your conversations secure. Privacy isn\u2019t an optional mode \u2014 it\u2019s just the way that Signal works. Every message, every call, every time.\n\n\u2022 Go fast \u2013 Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible.\n\n\u2022 Feel free \u2013 Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.\n\n\u2022 Be yourself \u2013 You can use your existing phone number and address book to securely communicate with your friends.\n\n\u2022 Speak up \u2013 Whether they live across town or across the ocean, Signal\u2019s enhanced audio and video quality will make your friends and family feel closer.\n\n\u2022 Whisper in the shadows \u2013 Switch to the dark theme if you refuse to see the light.\n\n\u2022 Sound familiar \u2013 Choose custom alerts for each contact, or disable noises completely. Simon & Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing \u201cNone\u201d as your notification ringtone.\n\n\u2022 Picture this \u2013 Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There\u2019s even a text tool so that you can add more words to the 1,000 that your picture is already worth.\n\n\nFor support, questions, or more information, please visit:\nhttps://support.signal.org\n\nSource code:\nhttps://github.com/signalapp\n\nFollow us on Twitter (@signalapp) and Instagram (@signal_app) for all of the latest updates and announcements.\n",
@@ -541,9 +541,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1632158379000,
-        "apkName": "Signal-Android-website-prod-universal-release-5.23.8.apk",
-        "hash": "c2cafec98bde89b75d29627a62d2e3ed57a870db27f57b1f50b8d6fa641d3aae",
+        "added": 1633014997000,
+        "apkName": "Signal-Android-website-prod-universal-release-5.24.7.apk",
+        "hash": "14667b6ce4bbf21ccd5a245bc39723e3850aa688c166f189eda4c8a1df7b458c",
         "hashType": "sha256",
         "minSdkVersion": 19,
         "nativecode": [
@@ -555,7 +555,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 69709002,
+        "size": 69739301,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -835,8 +835,8 @@
             null
           ]
         ],
-        "versionCode": 91905,
-        "versionName": "5.23.8"
+        "versionCode": 92700,
+        "versionName": "5.24.7"
       }
     ]
   }
