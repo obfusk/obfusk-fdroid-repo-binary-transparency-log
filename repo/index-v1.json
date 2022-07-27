@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1633015002000,
+    "timestamp": 1658931282000,
     "version": 20001,
     "name": "obfusk's f-droid repo",
     "icon": "fdroid-icon.png",
@@ -35,9 +35,9 @@
       "sourceCode": "https://github.com/obfusk/jiten",
       "webSite": "https://jiten.obfusk.dev",
       "added": 1623598065000,
-      "icon": "dev.obfusk.jiten.1010100002.png",
+      "icon": "dev.obfusk.jiten.1010100182.png",
       "packageName": "dev.obfusk.jiten",
-      "lastUpdated": 1625742577000,
+      "lastUpdated": 1658931278000,
       "localized": {
         "en-US": {
           "description": "Jiten is a Japanese dictionary based on JMDict/Kanjidic\n\nThis is the offline android version of https://jiten.obfusk.dev.\n\nThe large download size is because it includes all the dictionary data, including audio.\n\nNB: the app will take a while to load the first time it is started (or after an update), but it will load a lot faster afterwards.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
@@ -172,6 +172,52 @@
   ],
   "packages": {
     "dev.obfusk.jiten": [
+      {
+        "added": 1658931277000,
+        "apkName": "jiten-wip-1.1.0-18-gaf5b34f-arm64-v8a.apk",
+        "hash": "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 94373181,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010100182,
+        "versionName": "1.1.0-18-gaf5b34f"
+      },
+      {
+        "added": 1658931278000,
+        "apkName": "jiten-wip-1.1.0-18-gaf5b34f-armeabi-v7a.apk",
+        "hash": "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.obfusk.jiten",
+        "sig": "1591c1afc9534a012100d595ea3bbb38",
+        "signer": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd",
+        "size": 94377293,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1010100181,
+        "versionName": "1.1.0-18-gaf5b34f"
+      },
       {
         "added": 1625742576000,
         "apkName": "jiten-1.1.0-arm64-v8a.apk",
