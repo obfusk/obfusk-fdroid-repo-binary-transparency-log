@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="obfusk's f-droid repo" pubkey="308204f3308202dba003020102020432b866c8300d06092a864886f70d01010b0500302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e301e170d3230313131313030353731355a170d3438303332393030353731355a302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e30820222300d06092a864886f70d01010105000382020f003082020a028202010080ea207f282a8dfa73ec6fc11549ea6c66c69936007f439770fd5aa458dbc45bc2fc5ab6ca6dfaac148ef19141dfbeb8510dc392757ae73d6d94261f0f07cd395eb5e7ac66d7376e7c61b3c800ddc3f6000a4f781a32f40b0f52a305f8eaff51ae588cf62649b6a6705e15ae3c981c519621a999d5fa3878c2737f04edf5d2a86098630e55ca35ef946673d9ed643885f196a331b1c16315500c04d1e9ecb1917f9b6b438d5712ce724017b0696918ee47d90e7ceb8e27b866fe237714080173c498182d5f618f888d1b55dcbaec4be183b16514e6ec3c7bfc1dc3e5eae6d8004022d5c8d421d0e5da09c9e506f5ae6f30195945e43e45c5ab1042143c5372db0c7df57a3a224dea0ab979046944de2d712901ad504196d6fce1cc563b622701c08d99f7a9f18a3994e038ee90fa508802728e1d383ba749416721996d414a0de9be5e772e63d0cc82a605566427f0865014af29db54d4ae8eacacf0b48b18c10fd916e12232c67fca1043f88ac3d8f7afacfa6efbc641212527eb03c9983a180787f38ed941e3d7e724f6a2d100c9f0524a8884304769555ef0e57d4b2c09e2b3d9b7e57f839deb936af8280d61bacfe26d5c7b71b0151a8369ef240e79546598385ec937f7fdfe41bc070c72b0193e7bd16a955d267ba3e6aa61df44e8b59578a0a2722dccf5d1598adb2f7fbf56ff03df4eeda60428f80127cfce7e096ca70203010001a321301f301d0603551d0e041604144738707d76ae05b16c6ccf8dfdc0a679ca636e85300d06092a864886f70d01010b050003820201002030b60a43fe14f8c12fbdc7b9e6b8cfd81797feb9641b9814176a2958b696af4ede7e4e221d9db371cd6c030c24987d1a97403ec9eab0314e86110f05bca85521214c19f4fbfc35f0204f2cb4b13860d77f5a58c25c8869474c0247b49258e63e0eb4389a436fe9cc5e805ea6c2effab59aef45a777a9bcea35f105ab5a9155c9e63b27c84fdf0a5d00100f997e99248bddc5aac2fbc2da61d1c0aafd610312eb70fdf54f89c8cda4ff9330dae850bbf518207aec8753d7d4d1ea13ac8e6ec1cb943710a9df01d5fdd4f9af30d310d000dd612a8e49d80902a3db0605d22e27654ec0669aabee6996fbad8dd817939b5d69ce0dc95cb06faad211d3eee039625d6266ec7ac4f188c604c39e9e83ba08e5f1e9baab694f7f197cc6e19219831bc9eed00c635f5be36a4fcc5563eda251cbcc2f541950e4ab34a2104c3891891b24698302d57d7cd9c4c88964dc4953df2a5fa7fe7f0386c11202479adb5455620a8a3799e75e488747c36d708c50b67f84ed1ab9f18d54c0b201381daf679f3bf75c93866d90c7cede58e058174b39c14752246db0f40f2b8f182e28d8a046e0e726af42752c5c94eee587236a8b8ffe41fc24d8237e5bc8ffa3f24958094234eb9b0f150af2c7bb16af46d523794a19e562ab0509224313ae6db9637f9757b96757369c5f00cb3f08f4c6864bd8b976bf4c4569182f6538472165a7a8ad2a37" timestamp="1659025129" url="https://obfusk.dev/fdroid/repo" version="20001">
+	<repo icon="fdroid-icon.png" name="obfusk's f-droid repo" pubkey="308204f3308202dba003020102020432b866c8300d06092a864886f70d01010b0500302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e301e170d3230313131313030353731355a170d3438303332393030353731355a302a310b3009060355040613024e4c311b30190603550403131246656c697820432e205374656765726d616e30820222300d06092a864886f70d01010105000382020f003082020a028202010080ea207f282a8dfa73ec6fc11549ea6c66c69936007f439770fd5aa458dbc45bc2fc5ab6ca6dfaac148ef19141dfbeb8510dc392757ae73d6d94261f0f07cd395eb5e7ac66d7376e7c61b3c800ddc3f6000a4f781a32f40b0f52a305f8eaff51ae588cf62649b6a6705e15ae3c981c519621a999d5fa3878c2737f04edf5d2a86098630e55ca35ef946673d9ed643885f196a331b1c16315500c04d1e9ecb1917f9b6b438d5712ce724017b0696918ee47d90e7ceb8e27b866fe237714080173c498182d5f618f888d1b55dcbaec4be183b16514e6ec3c7bfc1dc3e5eae6d8004022d5c8d421d0e5da09c9e506f5ae6f30195945e43e45c5ab1042143c5372db0c7df57a3a224dea0ab979046944de2d712901ad504196d6fce1cc563b622701c08d99f7a9f18a3994e038ee90fa508802728e1d383ba749416721996d414a0de9be5e772e63d0cc82a605566427f0865014af29db54d4ae8eacacf0b48b18c10fd916e12232c67fca1043f88ac3d8f7afacfa6efbc641212527eb03c9983a180787f38ed941e3d7e724f6a2d100c9f0524a8884304769555ef0e57d4b2c09e2b3d9b7e57f839deb936af8280d61bacfe26d5c7b71b0151a8369ef240e79546598385ec937f7fdfe41bc070c72b0193e7bd16a955d267ba3e6aa61df44e8b59578a0a2722dccf5d1598adb2f7fbf56ff03df4eeda60428f80127cfce7e096ca70203010001a321301f301d0603551d0e041604144738707d76ae05b16c6ccf8dfdc0a679ca636e85300d06092a864886f70d01010b050003820201002030b60a43fe14f8c12fbdc7b9e6b8cfd81797feb9641b9814176a2958b696af4ede7e4e221d9db371cd6c030c24987d1a97403ec9eab0314e86110f05bca85521214c19f4fbfc35f0204f2cb4b13860d77f5a58c25c8869474c0247b49258e63e0eb4389a436fe9cc5e805ea6c2effab59aef45a777a9bcea35f105ab5a9155c9e63b27c84fdf0a5d00100f997e99248bddc5aac2fbc2da61d1c0aafd610312eb70fdf54f89c8cda4ff9330dae850bbf518207aec8753d7d4d1ea13ac8e6ec1cb943710a9df01d5fdd4f9af30d310d000dd612a8e49d80902a3db0605d22e27654ec0669aabee6996fbad8dd817939b5d69ce0dc95cb06faad211d3eee039625d6266ec7ac4f188c604c39e9e83ba08e5f1e9baab694f7f197cc6e19219831bc9eed00c635f5be36a4fcc5563eda251cbcc2f541950e4ab34a2104c3891891b24698302d57d7cd9c4c88964dc4953df2a5fa7fe7f0386c11202479adb5455620a8a3799e75e488747c36d708c50b67f84ed1ab9f18d54c0b201381daf679f3bf75c93866d90c7cede58e058174b39c14752246db0f40f2b8f182e28d8a046e0e726af42752c5c94eee587236a8b8ffe41fc24d8237e5bc8ffa3f24958094234eb9b0f150af2c7bb16af46d523794a19e562ab0509224313ae6db9637f9757b96757369c5f00cb3f08f4c6864bd8b976bf4c4569182f6538472165a7a8ad2a37" timestamp="1659025195" url="https://obfusk.dev/fdroid/repo" version="20001">
 		<description>Repository of apps for F-Droid. Contains official binaries built by
 the original developers: Jiten Japanese Dictionary, Sokoban(g) by
 obfusk.ch; Signal by signal.org.</description>
@@ -295,6 +295,66 @@ https://github.com/obfusk/jiten/discussions or jiten@obfusk.dev
 			<added>2021-06-13</added>
 			<sig>1591c1afc9534a012100d595ea3bbb38</sig>
 			<permissions>INTERNET</permissions>
+		</package>
+	</application>
+	<application id="org.thoughtcrime.securesms">
+		<id>org.thoughtcrime.securesms</id>
+		<added>2022-07-28</added>
+		<lastupdated>2022-07-28</lastupdated>
+		<name>Signal Private Messenger</name>
+		<summary>Say “hello” to privacy.</summary>
+		<desc>Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
+
+• Say anything – State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
+
+• Go fast – Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible.
+
+• Feel free – Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.
+
+• Be yourself – You can use your existing phone number and address book to securely communicate with your friends.
+
+• Speak up – Whether they live across town or across the ocean, Signal’s enhanced audio and video quality will make your friends and family feel closer.
+
+• Whisper in the shadows – Switch to the dark theme if you refuse to see the light.
+
+• Sound familiar – Choose custom alerts for each contact, or disable noises completely. Simon &amp; Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing “None” as your notification ringtone.
+
+• Picture this – Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There’s even a text tool so that you can add more words to the 1,000 that your picture is already worth.
+
+
+For support, questions, or more information, please visit:
+https://support.signal.org
+
+Source code:
+https://github.com/signalapp
+
+Follow us on Twitter (@signalapp) and Instagram (@signal_app) for all of the latest updates and announcements.
+</desc>
+		<license>GPL-3.0-only</license>
+		<categories>Internet,Phone &amp; SMS</categories>
+		<category>Internet</category>
+		<web>https://signal.org</web>
+		<source>https://github.com/signalapp/Signal-Android</source>
+		<tracker>https://github.com/signalapp/Signal-Android/issues</tracker>
+		<author>Signal Foundation</author>
+		<email>support@signal.org</email>
+		<donate>https://signal.org/donate/</donate>
+		<marketversion>5.43.7</marketversion>
+		<marketvercode>109300</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>5.43.7</version>
+			<versioncode>109300</versioncode>
+			<apkname>Signal-Android-website-prod-universal-release-5.43.7.apk</apkname>
+			<hash type="sha256">21136d08cf1fce4c3aa57eae75073d3e305699360f80d5954f7505b267921e8c</hash>
+			<size>81002803</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-07-28</added>
+			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="dev.obfusk.sokobang">
