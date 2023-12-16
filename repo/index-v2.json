@@ -14,18 +14,18 @@
       }
     },
     "address": "https://obfusk.dev/fdroid/repo",
-    "timestamp": 1702769865000
+    "timestamp": 1702770940000
   },
   "packages": {
     "dev.obfusk.jiten": {
       "metadata": {
-        "added": 1702768223000,
+        "added": 1605059095000,
         "categories": [
           "Science & Education"
         ],
         "changelog": "https://github.com/obfusk/jiten/blob/HEAD/changelog.txt",
         "issueTracker": "https://github.com/obfusk/jiten/issues",
-        "lastUpdated": 1702768236000,
+        "lastUpdated": 1658938452000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/obfusk/jiten",
         "webSite": "https://jiten.obfusk.dev",
@@ -93,7 +93,7 @@
       },
       "versions": {
         "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58": {
-          "added": 1702768235000,
+          "added": 1658938452000,
           "file": {
             "name": "/jiten-wip-1.1.0-18-gaf5b34f-arm64-v8a.apk",
             "sha256": "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58",
@@ -128,7 +128,7 @@
           ]
         },
         "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874": {
-          "added": 1702768236000,
+          "added": 1658938452000,
           "file": {
             "name": "/jiten-wip-1.1.0-18-gaf5b34f-armeabi-v7a.apk",
             "sha256": "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874",
@@ -163,7 +163,7 @@
           ]
         },
         "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d": {
-          "added": 1702768231000,
+          "added": 1625749757000,
           "file": {
             "name": "/jiten-1.1.0-arm64-v8a.apk",
             "sha256": "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d",
@@ -195,7 +195,7 @@
           }
         },
         "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02": {
-          "added": 1702768233000,
+          "added": 1625749758000,
           "file": {
             "name": "/jiten-1.1.0-armeabi-v7a.apk",
             "sha256": "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02",
@@ -227,7 +227,7 @@
           }
         },
         "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85": {
-          "added": 1702768229000,
+          "added": 1613840293000,
           "file": {
             "name": "/jiten-1.0.0-arm64-v8a.apk",
             "sha256": "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85",
@@ -259,7 +259,7 @@
           }
         },
         "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4": {
-          "added": 1702768230000,
+          "added": 1613840293000,
           "file": {
             "name": "/jiten-1.0.0-armeabi-v7a.apk",
             "sha256": "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4",
@@ -291,7 +291,7 @@
           }
         },
         "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371": {
-          "added": 1702768226000,
+          "added": 1611500921000,
           "file": {
             "name": "/jiten-0.4.0-arm64-v8a.apk",
             "sha256": "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371",
@@ -323,7 +323,7 @@
           }
         },
         "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2": {
-          "added": 1702768227000,
+          "added": 1611500921000,
           "file": {
             "name": "/jiten-0.4.0-armeabi-v7a.apk",
             "sha256": "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2",
@@ -355,7 +355,7 @@
           }
         },
         "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4": {
-          "added": 1702768223000,
+          "added": 1605059095000,
           "file": {
             "name": "/jiten-0.3.5-arm64-v8a.apk",
             "sha256": "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4",
@@ -387,7 +387,7 @@
           }
         },
         "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2": {
-          "added": 1702768224000,
+          "added": 1605059101000,
           "file": {
             "name": "/jiten-0.3.5-armeabi-v7a.apk",
             "sha256": "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2",
@@ -422,13 +422,13 @@
     },
     "dev.obfusk.jiten_webview": {
       "metadata": {
-        "added": 1702768233000,
+        "added": 1614030624000,
         "categories": [
           "Science & Education"
         ],
         "changelog": "https://github.com/obfusk/jiten-webview/releases",
         "issueTracker": "https://github.com/obfusk/jiten-webview/issues",
-        "lastUpdated": 1702768233000,
+        "lastUpdated": 1627868158000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://github.com/obfusk/jiten-webview",
         "webSite": "https://jiten.obfusk.dev",
@@ -496,7 +496,7 @@
       },
       "versions": {
         "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27": {
-          "added": 1702768233000,
+          "added": 1627868158000,
           "file": {
             "name": "/jiten-webview-1.0.3.apk",
             "sha256": "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27",
@@ -522,7 +522,7 @@
           }
         },
         "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32": {
-          "added": 1702768233000,
+          "added": 1614030624000,
           "file": {
             "name": "/jiten-webview-1.0.1.apk",
             "sha256": "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32",
@@ -551,13 +551,13 @@
     },
     "dev.obfusk.sokobang": {
       "metadata": {
-        "added": 1702768238000,
+        "added": 1605060145000,
         "categories": [
           "Games"
         ],
         "changelog": "https://github.com/obfusk/sokobang/releases",
         "issueTracker": "https://github.com/obfusk/sokobang/issues",
-        "lastUpdated": 1702768242000,
+        "lastUpdated": 1626131042000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/obfusk/sokobang",
         "webSite": "https://sokobang.obfusk.dev",
@@ -610,7 +610,7 @@
       },
       "versions": {
         "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb": {
-          "added": 1702768242000,
+          "added": 1626131042000,
           "file": {
             "name": "/sokobang-0.2.5-arm64-v8a.apk",
             "sha256": "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb",
@@ -639,7 +639,7 @@
           }
         },
         "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9": {
-          "added": 1702768242000,
+          "added": 1626131042000,
           "file": {
             "name": "/sokobang-0.2.5-armeabi-v7a.apk",
             "sha256": "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9",
@@ -668,7 +668,7 @@
           }
         },
         "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d": {
-          "added": 1702768240000,
+          "added": 1615320279000,
           "file": {
             "name": "/sokobang-0.2.3-arm64-v8a.apk",
             "sha256": "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d",
@@ -697,7 +697,7 @@
           }
         },
         "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20": {
-          "added": 1702768241000,
+          "added": 1615320279000,
           "file": {
             "name": "/sokobang-0.2.3-armeabi-v7a.apk",
             "sha256": "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20",
@@ -726,7 +726,7 @@
           }
         },
         "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8": {
-          "added": 1702768238000,
+          "added": 1605060145000,
           "file": {
             "name": "/sokobang-0.2.2-arm64-v8a.apk",
             "sha256": "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8",
@@ -755,7 +755,7 @@
           }
         },
         "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87": {
-          "added": 1702768239000,
+          "added": 1605060154000,
           "file": {
             "name": "/sokobang-0.2.2-armeabi-v7a.apk",
             "sha256": "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87",
