@@ -1,7 +1,7 @@
 {
   "repo": {
     "name": {
-      "en-US": "obfusk's f-droid repo"
+      "en-US": "Fay's f-droid repo"
     },
     "description": {
       "en-US": "Repository of apps for F-Droid. Contains official binaries built by\nthe original developers: Jiten Japanese Dictionary, Sokoban(g) by\nobfusk.ch."
@@ -14,7 +14,7 @@
       }
     },
     "address": "https://obfusk.dev/fdroid/repo",
-    "timestamp": 1702768612000
+    "timestamp": 1702769865000
   },
   "packages": {
     "dev.obfusk.jiten": {
