@@ -1,7 +1,7 @@
 {
   "repo": {
-    "timestamp": 1675374376000,
-    "version": 20001,
+    "timestamp": 1702768245000,
+    "version": 20002,
     "name": "obfusk's f-droid repo",
     "icon": "fdroid-icon.png",
     "address": "https://obfusk.dev/fdroid/repo",
@@ -34,10 +34,10 @@
       "name": "Jiten Japanese Dictionary",
       "sourceCode": "https://github.com/obfusk/jiten",
       "webSite": "https://jiten.obfusk.dev",
-      "added": 1623598065000,
+      "added": 1702768223000,
       "icon": "dev.obfusk.jiten.1010100182.png",
       "packageName": "dev.obfusk.jiten",
-      "lastUpdated": 1658931278000,
+      "lastUpdated": 1702768236000,
       "localized": {
         "en-US": {
           "description": "Jiten is a Japanese dictionary based on JMDict/Kanjidic\n\nThis is the offline android version of https://jiten.obfusk.dev.\n\nThe large download size is because it includes all the dictionary data, including audio.\n\nNB: the app will take a while to load the first time it is started (or after an update), but it will load a lot faster afterwards.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
@@ -74,9 +74,9 @@
       "name": "Jiten Japanese Dictionary [Online]",
       "sourceCode": "https://github.com/obfusk/jiten-webview",
       "webSite": "https://jiten.obfusk.dev",
-      "added": 1623598069000,
+      "added": 1702768233000,
       "packageName": "dev.obfusk.jiten_webview",
-      "lastUpdated": 1627861537000,
+      "lastUpdated": 1702768233000,
       "localized": {
         "en-US": {
           "description": "Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic\n\nThis app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser \u2014 but with some small advantages (like long press for tooltips).\n\nThere is also a completely offline version \u2014 named simply \"Jiten Japanese Dictionary\" \u2014 which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n",
@@ -112,10 +112,10 @@
       "name": "Sokoban(g)",
       "sourceCode": "https://github.com/obfusk/sokobang",
       "webSite": "https://sokobang.obfusk.dev",
-      "added": 1623598071000,
+      "added": 1702768238000,
       "icon": "dev.obfusk.sokobang.1000205002.png",
       "packageName": "dev.obfusk.sokobang",
-      "lastUpdated": 1626123860000,
+      "lastUpdated": 1702768242000,
       "localized": {
         "en-US": {
           "description": "Sokoban(g) is a sokoban (Japanese \"warehouse keeper\") puzzle game.\n\nThe objective of the game is to push all the red gems to the green goal squares (using as few moves and pushes as possible).\n\nUse the arrow buttons to move; press 'u' to undo the last move.\n",
@@ -133,7 +133,7 @@
   "packages": {
     "dev.obfusk.jiten": [
       {
-        "added": 1658931277000,
+        "added": 1702768235000,
         "apkName": "jiten-wip-1.1.0-18-gaf5b34f-arm64-v8a.apk",
         "hash": "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58",
         "hashType": "sha256",
@@ -156,7 +156,7 @@
         "versionName": "1.1.0-18-gaf5b34f"
       },
       {
-        "added": 1658931278000,
+        "added": 1702768236000,
         "apkName": "jiten-wip-1.1.0-18-gaf5b34f-armeabi-v7a.apk",
         "hash": "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874",
         "hashType": "sha256",
@@ -179,7 +179,7 @@
         "versionName": "1.1.0-18-gaf5b34f"
       },
       {
-        "added": 1625742576000,
+        "added": 1702768231000,
         "apkName": "jiten-1.1.0-arm64-v8a.apk",
         "hash": "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d",
         "hashType": "sha256",
@@ -202,7 +202,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1625742577000,
+        "added": 1702768233000,
         "apkName": "jiten-1.1.0-armeabi-v7a.apk",
         "hash": "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02",
         "hashType": "sha256",
@@ -225,7 +225,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1623598068000,
+        "added": 1702768229000,
         "apkName": "jiten-1.0.0-arm64-v8a.apk",
         "hash": "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85",
         "hashType": "sha256",
@@ -248,7 +248,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1623598069000,
+        "added": 1702768230000,
         "apkName": "jiten-1.0.0-armeabi-v7a.apk",
         "hash": "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4",
         "hashType": "sha256",
@@ -271,7 +271,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1623598066000,
+        "added": 1702768226000,
         "apkName": "jiten-0.4.0-arm64-v8a.apk",
         "hash": "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371",
         "hashType": "sha256",
@@ -294,7 +294,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1623598067000,
+        "added": 1702768227000,
         "apkName": "jiten-0.4.0-armeabi-v7a.apk",
         "hash": "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2",
         "hashType": "sha256",
@@ -317,7 +317,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1623598065000,
+        "added": 1702768223000,
         "apkName": "jiten-0.3.5-arm64-v8a.apk",
         "hash": "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4",
         "hashType": "sha256",
@@ -340,7 +340,7 @@
         "versionName": "0.3.5"
       },
       {
-        "added": 1623598066000,
+        "added": 1702768224000,
         "apkName": "jiten-0.3.5-armeabi-v7a.apk",
         "hash": "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2",
         "hashType": "sha256",
@@ -365,7 +365,7 @@
     ],
     "dev.obfusk.jiten_webview": [
       {
-        "added": 1627861537000,
+        "added": 1702768233000,
         "apkName": "jiten-webview-1.0.3.apk",
         "hash": "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27",
         "hashType": "sha256",
@@ -385,7 +385,7 @@
         "versionName": "1.0.3"
       },
       {
-        "added": 1623598069000,
+        "added": 1702768233000,
         "apkName": "jiten-webview-1.0.1.apk",
         "hash": "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32",
         "hashType": "sha256",
@@ -407,7 +407,7 @@
     ],
     "dev.obfusk.sokobang": [
       {
-        "added": 1626123859000,
+        "added": 1702768242000,
         "apkName": "sokobang-0.2.5-arm64-v8a.apk",
         "hash": "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb",
         "hashType": "sha256",
@@ -430,7 +430,7 @@
         "versionName": "0.2.5"
       },
       {
-        "added": 1626123860000,
+        "added": 1702768242000,
         "apkName": "sokobang-0.2.5-armeabi-v7a.apk",
         "hash": "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9",
         "hashType": "sha256",
@@ -453,7 +453,7 @@
         "versionName": "0.2.5"
       },
       {
-        "added": 1623598071000,
+        "added": 1702768240000,
         "apkName": "sokobang-0.2.3-arm64-v8a.apk",
         "hash": "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d",
         "hashType": "sha256",
@@ -476,7 +476,7 @@
         "versionName": "0.2.3"
       },
       {
-        "added": 1623598072000,
+        "added": 1702768241000,
         "apkName": "sokobang-0.2.3-armeabi-v7a.apk",
         "hash": "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20",
         "hashType": "sha256",
@@ -499,7 +499,7 @@
         "versionName": "0.2.3"
       },
       {
-        "added": 1623598071000,
+        "added": 1702768238000,
         "apkName": "sokobang-0.2.2-arm64-v8a.apk",
         "hash": "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8",
         "hashType": "sha256",
@@ -522,7 +522,7 @@
         "versionName": "0.2.2"
       },
       {
-        "added": 1623598071000,
+        "added": 1702768239000,
         "apkName": "sokobang-0.2.2-armeabi-v7a.apk",
         "hash": "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87",
         "hashType": "sha256",

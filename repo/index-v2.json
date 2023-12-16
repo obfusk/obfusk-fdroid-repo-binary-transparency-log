@@ -1,0 +1,789 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "obfusk's f-droid repo"
+    },
+    "description": {
+      "en-US": "Repository of apps for F-Droid. Contains official binaries built by\nthe original developers: Jiten Japanese Dictionary, Sokoban(g) by\nobfusk.ch."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/fdroid-icon.png",
+        "sha256": "686ba750aac96c47398c7247eb949d80882650de63f4a6b60f3ca1efa5528934",
+        "size": 3367
+      }
+    },
+    "address": "https://obfusk.dev/fdroid/repo",
+    "timestamp": 1702768245000
+  },
+  "packages": {
+    "dev.obfusk.jiten": {
+      "metadata": {
+        "added": 1702768223000,
+        "categories": [
+          "Science & Education"
+        ],
+        "changelog": "https://github.com/obfusk/jiten/blob/HEAD/changelog.txt",
+        "issueTracker": "https://github.com/obfusk/jiten/issues",
+        "lastUpdated": 1702768236000,
+        "license": "AGPL-3.0-or-later",
+        "sourceCode": "https://github.com/obfusk/jiten",
+        "webSite": "https://jiten.obfusk.dev",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/dev.obfusk.jiten/en-US/featureGraphic_DNLcna9L7ZgXkkSzckAYHK96hr5faKy0PAxjubC3lGw=.png",
+            "sha256": "0cd2dc9daf4bed98179244b37240181caf7a86be5f68acb43c0c63b9b0b7946c",
+            "size": 36143
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.obfusk.jiten/en-US/phoneScreenshots/1.png",
+                "sha256": "2731df509af4fa24a89b74d0bc30ad53f7059ebc82d6696e073c965b30d9f8c7",
+                "size": 134974
+              },
+              {
+                "name": "/dev.obfusk.jiten/en-US/phoneScreenshots/2.png",
+                "sha256": "d9d72cb309fc5321495af117b571d8f9fd1df3594fa60f5b3a998e8ad8a065a0",
+                "size": 129164
+              },
+              {
+                "name": "/dev.obfusk.jiten/en-US/phoneScreenshots/3.png",
+                "sha256": "24bdb38313d2d6286103cd55ead6f2933ba5326e06901b7a1216e82b6771fa1a",
+                "size": 243003
+              },
+              {
+                "name": "/dev.obfusk.jiten/en-US/phoneScreenshots/4.png",
+                "sha256": "9e7b454f398e30526ea864a4b09306d7a2bfddf392cff95fdc8ec79ba68cd806",
+                "size": 181289
+              },
+              {
+                "name": "/dev.obfusk.jiten/en-US/phoneScreenshots/5.png",
+                "sha256": "d995bf3f6e2d8e5cf425d593b173c7ef7d055e7e5879ac9a299a36ed50fb6c42",
+                "size": 159064
+              }
+            ]
+          }
+        },
+        "authorEmail": "flx@obfusk.net",
+        "authorName": "obfusk",
+        "authorWebSite": "https://obfusk.ch",
+        "name": {
+          "en-US": "Jiten Japanese Dictionary"
+        },
+        "summary": {
+          "en-US": "Japanese dictionary based on jmdict/kanjidic (offline version)"
+        },
+        "description": {
+          "en-US": "Jiten is a Japanese dictionary based on JMDict/Kanjidic\n\nThis is the offline android version of https://jiten.obfusk.dev.\n\nThe large download size is because it includes all the dictionary data, including audio.\n\nNB: the app will take a while to load the first time it is started (or after an update), but it will load a lot faster afterwards.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n"
+        },
+        "donate": [
+          "https://ko-fi.com/obfusk"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/dev.obfusk.jiten/en-US/icon_aVLHTgZchZUfJsE3QY9tVQRBztygHOTfx1Wr94Z5NQQ=.png",
+            "sha256": "6952c74e065c85951f26c137418f6d550441cedca01ce4dfc755abf786793504",
+            "size": 11239
+          }
+        },
+        "preferredSigner": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+      },
+      "versions": {
+        "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58": {
+          "added": 1702768235000,
+          "file": {
+            "name": "/jiten-wip-1.1.0-18-gaf5b34f-arm64-v8a.apk",
+            "sha256": "51a493e20715df7eb8dad633ff266a0a2f56f43bae68e0053907c66d89fcae58",
+            "size": 94373181
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.1.0-18-gaf5b34f",
+            "versionCode": 1010100182,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874": {
+          "added": 1702768236000,
+          "file": {
+            "name": "/jiten-wip-1.1.0-18-gaf5b34f-armeabi-v7a.apk",
+            "sha256": "8815021fb61897175a69544e76ba7039c0581806cf63e03b3f533a80b5241874",
+            "size": 94377293
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "1.1.0-18-gaf5b34f",
+            "versionCode": 1010100181,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d": {
+          "added": 1702768231000,
+          "file": {
+            "name": "/jiten-1.1.0-arm64-v8a.apk",
+            "sha256": "cc8da047b125fb277d0d4867d63fb666b57d5dd0a5b27193c3725024c8a9051d",
+            "size": 94373171
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.1.0",
+            "versionCode": 1010100002,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02": {
+          "added": 1702768233000,
+          "file": {
+            "name": "/jiten-1.1.0-armeabi-v7a.apk",
+            "sha256": "2582ae7928fc3c4741bea9c1b551553835cd39d49aee07481b68a796018b4a02",
+            "size": 94373195
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "1.1.0",
+            "versionCode": 1010100001,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85": {
+          "added": 1702768229000,
+          "file": {
+            "name": "/jiten-1.0.0-arm64-v8a.apk",
+            "sha256": "d6a565ca2876508d402f63390530ac9e28892d32caf271045fa2c4ec99401d85",
+            "size": 92108095
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.0.0",
+            "versionCode": 1010000002,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4": {
+          "added": 1702768230000,
+          "file": {
+            "name": "/jiten-1.0.0-armeabi-v7a.apk",
+            "sha256": "572cdbc3b0b467fdd7bfd5c3787d2ec1891ff46e930175ea3ddbebf54a8383f4",
+            "size": 92108109
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "1.0.0",
+            "versionCode": 1010000001,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371": {
+          "added": 1702768226000,
+          "file": {
+            "name": "/jiten-0.4.0-arm64-v8a.apk",
+            "sha256": "0f8401219a0687843c2e67f7e173f2092a40086582d09fd1564339260bfd0371",
+            "size": 87942323
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.4.0",
+            "versionCode": 1000400002,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2": {
+          "added": 1702768227000,
+          "file": {
+            "name": "/jiten-0.4.0-armeabi-v7a.apk",
+            "sha256": "5a6e0799c86a67f5b48dab968a98e0588d45cac2c88a1485a718b9e7a2056db2",
+            "size": 87942337
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.4.0",
+            "versionCode": 1000400001,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4": {
+          "added": 1702768223000,
+          "file": {
+            "name": "/jiten-0.3.5-arm64-v8a.apk",
+            "sha256": "75f622099d6a2cc54b2c6e16c4748d8bc1fdb6b635a20581985b4481f1607ed4",
+            "size": 85804184
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.3.5",
+            "versionCode": 1000305002,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        },
+        "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2": {
+          "added": 1702768224000,
+          "file": {
+            "name": "/jiten-0.3.5-armeabi-v7a.apk",
+            "sha256": "2e6b15d929edaaeb6a21ddc3a96c879d2b8d81b68d2bc60edc1e93063ade21f2",
+            "size": 85456038
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.3.5",
+            "versionCode": 1000305001,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeAssets": {}
+          }
+        }
+      }
+    },
+    "dev.obfusk.jiten_webview": {
+      "metadata": {
+        "added": 1702768233000,
+        "categories": [
+          "Science & Education"
+        ],
+        "changelog": "https://github.com/obfusk/jiten-webview/releases",
+        "issueTracker": "https://github.com/obfusk/jiten-webview/issues",
+        "lastUpdated": 1702768233000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/obfusk/jiten-webview",
+        "webSite": "https://jiten.obfusk.dev",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/dev.obfusk.jiten_webview/en-US/featureGraphic_DNLcna9L7ZgXkkSzckAYHK96hr5faKy0PAxjubC3lGw=.png",
+            "sha256": "0cd2dc9daf4bed98179244b37240181caf7a86be5f68acb43c0c63b9b0b7946c",
+            "size": 36143
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.obfusk.jiten_webview/en-US/phoneScreenshots/1.png",
+                "sha256": "2731df509af4fa24a89b74d0bc30ad53f7059ebc82d6696e073c965b30d9f8c7",
+                "size": 134974
+              },
+              {
+                "name": "/dev.obfusk.jiten_webview/en-US/phoneScreenshots/2.png",
+                "sha256": "d9d72cb309fc5321495af117b571d8f9fd1df3594fa60f5b3a998e8ad8a065a0",
+                "size": 129164
+              },
+              {
+                "name": "/dev.obfusk.jiten_webview/en-US/phoneScreenshots/3.png",
+                "sha256": "24bdb38313d2d6286103cd55ead6f2933ba5326e06901b7a1216e82b6771fa1a",
+                "size": 243003
+              },
+              {
+                "name": "/dev.obfusk.jiten_webview/en-US/phoneScreenshots/4.png",
+                "sha256": "9e7b454f398e30526ea864a4b09306d7a2bfddf392cff95fdc8ec79ba68cd806",
+                "size": 181289
+              },
+              {
+                "name": "/dev.obfusk.jiten_webview/en-US/phoneScreenshots/5.png",
+                "sha256": "d995bf3f6e2d8e5cf425d593b173c7ef7d055e7e5879ac9a299a36ed50fb6c42",
+                "size": 159064
+              }
+            ]
+          }
+        },
+        "authorEmail": "flx@obfusk.net",
+        "authorName": "obfusk",
+        "authorWebSite": "https://obfusk.ch",
+        "name": {
+          "en-US": "Jiten Japanese Dictionary [Online]"
+        },
+        "summary": {
+          "en-US": "Japanese dictionary based on jmdict/kanjidic (online version)"
+        },
+        "description": {
+          "en-US": "Jiten [Online] is a Japanese dictionary based on JMDict/Kanjidic\n\nThis app essentially provides the same functionality as opening the https://jiten.obfusk.dev website in a web browser \u2014 but with some small advantages (like long press for tooltips).\n\nThere is also a completely offline version \u2014 named simply \"Jiten Japanese Dictionary\" \u2014 which requires more storage space (and could be slower depending on your device and internet connection).  You can install both at the same time if you want.\n\nFeatures:\n\nJMDict multilingual japanese dictionary\n\u2022 kanji, readings (romaji optional), meanings & more\n\u2022 meanings in english, dutch, german, french and/or spanish\n\u2022 pitch accent (from Wadoku)\n\u2022 browse by frequency/jlpt\n\nKanji dictionary\n\u2022 readings (romaji optional), meanings (english), jmdict entries, radicals & more\n\u2022 search using SKIP codes\n\u2022 search by radical\n\u2022 handwritten kanji recognition\n\u2022 browse by frequency/level/jlpt/SKIP\n\nExample sentences (from Tatoeba)\n\u2022 with english, dutch, german, french and/or spanish translation\n\u2022 some with audio\n\nStroke order\n\u2022 input a word or sentence and see how it's written\n\nFine-grained search using regexes (regular expressions)\n\u2022 simple searches don't require knowledge of regexes\n\u2022 quick reference available\n\n\u2022 Dark mode\n\u2022 Search history (stored locally)\n\u2022 Use long press for tooltips: quickly see meanings and readings for kanji and words\n\u2022 Easily share and open jiten.obfusk.dev links\n\u2022 Convert romaji to hiragana and between hiragana and katakana\n\n\nNo ads.  No trackers.  The source code is 100% Free and Open Source (AGPLv3+) and the data is available under Creative Commons or similar licenses (some non-commercial); for details, see https://github.com/obfusk/jiten#readme and https://github.com/obfusk/jiten-webview#readme\n\n\nTo report bugs and request features, please use the issue tracker at\nhttps://github.com/obfusk/jiten/issues\n\nQuestions and feedback are welcome at\nhttps://github.com/obfusk/jiten/discussions or jiten@obfusk.dev\n"
+        },
+        "donate": [
+          "https://ko-fi.com/obfusk"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/dev.obfusk.jiten_webview/en-US/icon_ir81wZXXRsOMdHYRTO3xmq9i-JmQEC5VpEiJXt6In4o=.png",
+            "sha256": "8abf35c195d746c38c7476114cedf19aaf62f89990102e55a448895ede889f8a",
+            "size": 13967
+          }
+        },
+        "preferredSigner": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+      },
+      "versions": {
+        "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27": {
+          "added": 1702768233000,
+          "file": {
+            "name": "/jiten-webview-1.0.3.apk",
+            "sha256": "23161e736b07572c5625e9eba1f485611faa80e0955f5e0f5c6f9e20de279b27",
+            "size": 2736571
+          },
+          "manifest": {
+            "versionName": "1.0.3",
+            "versionCode": 202108010,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32": {
+          "added": 1702768233000,
+          "file": {
+            "name": "/jiten-webview-1.0.1.apk",
+            "sha256": "bfadf197131c03d1be996ecfe47e509726b6e9088741e1f4f3b7e75e0c2d5f32",
+            "size": 2807041
+          },
+          "manifest": {
+            "versionName": "1.0.1",
+            "versionCode": 202102180,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "dev.obfusk.sokobang": {
+      "metadata": {
+        "added": 1702768238000,
+        "categories": [
+          "Games"
+        ],
+        "changelog": "https://github.com/obfusk/sokobang/releases",
+        "issueTracker": "https://github.com/obfusk/sokobang/issues",
+        "lastUpdated": 1702768242000,
+        "license": "AGPL-3.0-or-later",
+        "sourceCode": "https://github.com/obfusk/sokobang",
+        "webSite": "https://sokobang.obfusk.dev",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/dev.obfusk.sokobang/en-US/featureGraphic_j9uF2cukAjY7u8tl1XpRB6P8Sq00KtdGdHEmxxWhg48=.png",
+            "sha256": "8fdb85d9cba402363bbbcb65d57a5107a3fc4aad342ad746747126c715a1838f",
+            "size": 274728
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.obfusk.sokobang/en-US/phoneScreenshots/1.png",
+                "sha256": "074176c3e465e97e0c80487e8c48f95c7343ed4eb6fb2158803347f9c5d410b2",
+                "size": 404148
+              },
+              {
+                "name": "/dev.obfusk.sokobang/en-US/phoneScreenshots/2.png",
+                "sha256": "579176fa9e825f6e326eaaa64cf0c883964eec717169e1265d4c21cb6f1f575a",
+                "size": 604189
+              }
+            ]
+          }
+        },
+        "authorEmail": "flx@obfusk.net",
+        "authorName": "obfusk",
+        "authorWebSite": "https://obfusk.ch",
+        "name": {
+          "en-US": "Sokoban(g)"
+        },
+        "summary": {
+          "en-US": "Sokoban puzzle game"
+        },
+        "description": {
+          "en-US": "Sokoban(g) is a sokoban (Japanese \"warehouse keeper\") puzzle game.\n\nThe objective of the game is to push all the red gems to the green goal squares (using as few moves and pushes as possible).\n\nUse the arrow buttons to move; press 'u' to undo the last move.\n"
+        },
+        "donate": [
+          "https://ko-fi.com/obfusk"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/dev.obfusk.sokobang/en-US/icon_eLXOEIakSLjzTXRy1hFx3EwC1B7bKxr4MuxejVyGynw=.png",
+            "sha256": "78b5ce1086a448b8f34d7472d61171dc4c02d41edb2b1af832ec5e8d5c86ca7c",
+            "size": 14537
+          }
+        },
+        "preferredSigner": "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+      },
+      "versions": {
+        "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb": {
+          "added": 1702768242000,
+          "file": {
+            "name": "/sokobang-0.2.5-arm64-v8a.apk",
+            "sha256": "e2d02103a7cfdd98925ef2044a8794761277b8dcf69c1eef2517f5afb44d37eb",
+            "size": 8709356
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.2.5",
+            "versionCode": 1000205002,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9": {
+          "added": 1702768242000,
+          "file": {
+            "name": "/sokobang-0.2.5-armeabi-v7a.apk",
+            "sha256": "47e23f5980eae162d3d0f07c367b19269969ab52225fec6ef40145a3d07987d9",
+            "size": 8709367
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.2.5",
+            "versionCode": 1000205001,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d": {
+          "added": 1702768240000,
+          "file": {
+            "name": "/sokobang-0.2.3-arm64-v8a.apk",
+            "sha256": "d1be3de2668addac835c8c7dab956a64d0285ca6de2699f0387e4e6cd897f28d",
+            "size": 8643813
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.2.3",
+            "versionCode": 1000203002,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20": {
+          "added": 1702768241000,
+          "file": {
+            "name": "/sokobang-0.2.3-armeabi-v7a.apk",
+            "sha256": "ba62b87340e38f3d9388a429432097fb7db888e63e9235b2954d37b98e705f20",
+            "size": 8652016
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.2.3",
+            "versionCode": 1000203001,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8": {
+          "added": 1702768238000,
+          "file": {
+            "name": "/sokobang-0.2.2-arm64-v8a.apk",
+            "sha256": "ce2adc52d178528175c048731bbb394c54a9e321d25cacf4a7f0be0c82efbda8",
+            "size": 8905810
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.2.2",
+            "versionCode": 1000202002,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87": {
+          "added": 1702768239000,
+          "file": {
+            "name": "/sokobang-0.2.2-armeabi-v7a.apk",
+            "sha256": "f1f4ea3e58b8131a85685a67dc1108699011d3e811a3e41bbde6b5c06c3e2a87",
+            "size": 8647774
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.2.2",
+            "versionCode": 1000202001,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "e3603f6a1c0a41cb00ee821bbc4d07032d4b2ca26d03745d4a26ebebfbc7d4fd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
